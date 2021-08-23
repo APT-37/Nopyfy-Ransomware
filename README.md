@@ -25,12 +25,12 @@ Nopyfy-Ransomware is Open source Ransomware. you can download it's source Code f
 
 ## if You not know how to build-up this Virus, Don'ts hesitate, we will create virus for you.
 You have Three option, Chose one:
-- Fill Form that ask for informations (All features that you want) , We will create Nopyfy by these information with All Features, You want(by your id,pass)</br>
-<a href="https://rzp.io/l/Nopyfy-Form" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88558310/129912232-184e609a-9c2b-4191-917b-947eb7a0ce59.png" alt="click-here-button" height="50" width="150" /></a></br>
-- We will create Nopyfy with only Web-pannel and MySql setup, That's give you victim information</br>
-<a href="https://rzp.io/l/Nopyfy-webpanel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88558310/129912232-184e609a-9c2b-4191-917b-947eb7a0ce59.png" alt="click-here-button" height="50" width="150" /></a></br>
-- We create Full-setup for Nopyfy-Ransomware with all features (Premium Feature)</br>
-<a href="https://rzp.io/l/Nopyfy-Premium" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88558310/129912232-184e609a-9c2b-4191-917b-947eb7a0ce59.png" alt="click-here-button" height="50" width="150" /></a></br>
+- Fill Form that ask for informations (All features that you want) , We will create Nopyfy by these information with All Features, You want(by your id,pass)
+- We will create Nopyfy with only Web-pannel and MySql setup, That's give you victim information
+- We create Full-setup for Nopyfy-Ransomware with all features (Premium Feature)
+
+**If You interested In Pre-Build Nopyfy-Ransomware</br>
+Email us - Info@infutureworld.xyz**
 
 ## Features that you will use
 **Ransomware size is only `22kb`**
