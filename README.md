@@ -31,7 +31,7 @@ You have Three option, Chose one:
 
 **If You interested In Pre-Build Nopyfy-Ransomware</br>
 This is in Very-Very Low Cost</br>
-Email us - Info@infutureworld.xyz</br>
+Email us - info@infutureworld.xyz</br>
 WhatsApp - [+1 (201) 422-2538](https://wa.me/message/RJSMU4K3QDHZC1)**
 
 ## Features that you will use
