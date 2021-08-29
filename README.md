@@ -29,6 +29,15 @@ You have Three option, Chose one:
 - We will create Nopyfy with only Web-pannel and MySql setup, That's give you victim information
 - We create Full-setup for Nopyfy-Ransomware with all features (Premium Feature)
 
+<a target="_blank" href="https://rzp.io/l/Nopyfy">
+ <img alt="Instagram" width="300px" src="https://user-images.githubusercontent.com/88558310/131221648-0939bb30-b4d7-44f0-9c54-8caad167d3ad.png" />
+</a>
+
+### Or </br>
+If You want to Buy with crypto aur any other payment method, Contact us.</br>
+**It's recommended to contact us before buying**</br>
+Email- info@infutureworld.xyz
+
 **If You interested In Pre-Build Nopyfy-Ransomware</br>
 This is in Very-Very Low Cost</br>
 Email us - info@infutureworld.xyz</br>
