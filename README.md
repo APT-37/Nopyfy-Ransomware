@@ -41,7 +41,7 @@ Total: `25$`</br>
 </a>
 
 ### Or </br>
-If You want to Buy with crypto aur any other payment method, Contact us.</br>
+If You want to Buy with crypto or any other payment method, Contact us.</br>
 **It's recommended to contact us before buying**</br>
 **Email us - info@infutureworld.xyz</br>
 WhatsApp - [+1 (201) 422-2538](https://wa.me/message/RJSMU4K3QDHZC1)**
