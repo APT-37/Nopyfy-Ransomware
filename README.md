@@ -43,12 +43,9 @@ Total: `25$`</br>
 ### Or </br>
 If You want to Buy with crypto aur any other payment method, Contact us.</br>
 **It's recommended to contact us before buying**</br>
-Email- info@infutureworld.xyz
-
-**If You interested In Pre-Build Nopyfy-Ransomware</br>
-This is in Very-Very Low Cost</br>
-Email us - info@infutureworld.xyz</br>
+**Email us - info@infutureworld.xyz</br>
 WhatsApp - [+1 (201) 422-2538](https://wa.me/message/RJSMU4K3QDHZC1)**
+
 
 ## Features that you will use
 **Ransomware size is only `22kb`**
