@@ -34,7 +34,7 @@ You have Three option, Chose one:
 Total: `10$`
 - Basic Feature
 Total: `20$`
-- Premium Setup.
+- Premium Setup
 Total: `25$`</br>
 <!--
 <a target="_blank" href="https://rzp.io/l/Nopyfy">
