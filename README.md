@@ -36,15 +36,16 @@ Total: `10$`
 Total: `20$`
 - Premium Setup.
 Total: `25$`</br>
+<!--
 <a target="_blank" href="https://rzp.io/l/Nopyfy">
  <img alt="Instagram" width="300px" src="https://user-images.githubusercontent.com/88558310/131221648-0939bb30-b4d7-44f0-9c54-8caad167d3ad.png" />
 </a>
-
 ### Or </br>
-If You want to Buy with crypto or any other payment method, Contact us.</br>
-**It's recommended to contact us before buying**</br>
-**Email us - info@infutureworld.xyz</br>
-WhatsApp - [+1 (201) 422-2538](https://wa.me/message/RJSMU4K3QDHZC1)**
+**It's recommended to contact us before buying**</br> -->
+**--><br />
+If You want to Buy this, Contact Us by Email or What's app. We accept all payment method, included crypto or any other payment method.</br>
+Email us - info@infutureworld.xyz ~~~ ᴀᴄᴛɪᴠᴇ✔✔</br>
+WhatsApp - [+1 (201) 422-2538](https://wa.me/message/RJSMU4K3QDHZC1) ~~~ ᴀᴄᴛɪᴠᴇ✔✔**
 
 
 ## Features that you will use
